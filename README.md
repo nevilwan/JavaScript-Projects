@@ -1,1 +1,1 @@
-JavaScript Projects
+Simple Beginner JavaScript Projects
